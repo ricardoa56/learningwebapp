@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/lwebapp
+/lwebapp/obj/Debug/net8.0/lwebapp.AssemblyInfo.cs
+/lwebapp/obj/Debug/net8.0/lwebapp.AssemblyInfoInputs.cache
+/lwebapp/obj/Debug/net8.0/lwebapp.assets.cache
+/lwebapp/obj/Debug/net8.0/lwebapp.GeneratedMSBuildEditorConfig.editorconfig
+/lwebapp/obj/Debug/net8.0/rpswa.dswa.cache.json
